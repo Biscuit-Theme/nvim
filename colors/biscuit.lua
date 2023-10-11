@@ -1,1 +1,1 @@
-require("biscuit.colors").setup()
+require("biscuit").setup()
